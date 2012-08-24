@@ -3,7 +3,7 @@
 
 ##Install
 
-	npm install simpebig
+	npm install simplebig
 
 ##Usage
 
